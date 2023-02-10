@@ -1,2 +1,2 @@
-# Chinyakin.K
-Chinyakin Kirill IBS-255
+# Чинякин.К
+Чинякин Кирилл ИБС-255

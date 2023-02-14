@@ -1,3 +1,4 @@
+практическая 1
 tseloe = 10
 drobnoe = 8.4
 stroka = 'No'

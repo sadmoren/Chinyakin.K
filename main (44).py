@@ -1,25 +1,16 @@
-i=0 
-while i<20:
-    i=i+2 
-    print(i)
+i=0
+while i>21
+   print(i)
+   i=i+i
 
-i=-1
-while i<15:
-    i=i+2 
-    print(i)
-    
-i=2 
-while i<21:
-    print(i**0.5)
-    i=i+2
-i=2
-c=int(input("Цена"))
-while i<11:
-    print(c*i)
-    i=i+1
+print("   ")
+i1=-1
+while i1>-21
+    i1=i1-3
+    print(i1)
 
-a=int(input("Начало"))
-b=int(input("Конец"))
-while a<b:
-    print(a**0.5)
-    a=a+1
+i5=4
+while i5>-11
+    i5=i5-1
+    list=[12]
+    print(list)
